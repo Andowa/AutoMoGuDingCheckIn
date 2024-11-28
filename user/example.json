@@ -37,7 +37,7 @@
       }
     },
     "ai": {
-      "model": "gpt-4o-mini",
+      "model": "gpt-3.5-turbo-0125",
       "apikey": "sk-vsVEdtIIw45LWS6jD3Ff633024524c6c8a8574Bb386bE9Ac",
       "apiUrl": "https://free.v36.cm"
     },
