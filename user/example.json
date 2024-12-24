@@ -8,8 +8,8 @@
         "mode": "daily",
         "location": {
           "address": "海南省 · 琼海市 · 富海路128号 · 在海南软件职业技术学院附近",
-          "latitude": "110.47305600000003",
-          "longitude": "19.252013",
+          "latitude": "19.252013",
+          "longitude": "110.47305600000003",
           "province": "海南省",
           "city": "琼海市",
           "area": "富海路"
